@@ -1,7 +1,5 @@
-arr = [1,2,3,4,5,6,7,8,9]
+n = input("Introduce tu nombre: ")
 
-for a in arr:
-    if a >= 5:
-        for r in range(1,6):
-            print(a*r, end = "\t")
-    print("")
+while True:
+    print(f"\nHola {n}, es un gusto saludarte!")
+    break
