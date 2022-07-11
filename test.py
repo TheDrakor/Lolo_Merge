@@ -1,6 +1,3 @@
-from email.utils import parsedate_to_datetime
-
-
 name = input("\nIntroduce tu nombre: ")
 age = input("\nIntroduce tu edad: ")
 pasatiempo = input("\nTu pasatiempo favorito: ")
