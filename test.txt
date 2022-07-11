@@ -1,3 +1,0 @@
-Linea 1
-Linea de foo
-Linea de texto de la rama bar
